@@ -11,7 +11,7 @@
 <p>
   <a href="https://jiay-77.github.io/portfolio/"><img src="https://img.shields.io/badge/%E5%9C%A8%E6%89%BE%E6%9C%BA%E4%BC%9A_%C2%B7_AI_%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91_%26_%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-22c55e?style=flat-square" alt="open to work" /></a>
   <a href="https://jiay-77.github.io/portfolio/"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%AB%99-jiay--77.github.io-4c6ef5?style=flat-square&logo=googlechrome&logoColor=white" alt="site" /></a>
-  <a href="mailto:3026140357@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-3026140357@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:3026140357@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-3026140357@qq.com-6E7781?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 </div>
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="markdown" />
+  <img src="https://img.shields.io/badge/Markdown-6E7781?style=flat-square&logo=markdown&logoColor=white" alt="markdown" />
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="obsidian" />
 </p>
 
@@ -77,7 +77,13 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=JiaY-77&show_icons=true&hide_rank=true&include_all_commits=true&theme=transparent&title_color=4c6ef5&icon_color=4c6ef5&text_color=768390&border_color=3d444d" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaY-77&layout=compact&theme=transparent&title_color=4c6ef5&text_color=768390&border_color=3d444d" alt="languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JiaY-77&show_icons=true&hide_rank=true&include_all_commits=true&theme=github_dark&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JiaY-77&show_icons=true&hide_rank=true&include_all_commits=true&title_color=4c6ef5&icon_color=4c6ef5&text_color=57606a&border_color=d0d7de" alt="stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaY-77&layout=compact&hide=VBScript&theme=github_dark&title_color=7aa2f7&text_color=c9d1d9&border_color=30363d" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaY-77&layout=compact&hide=VBScript&title_color=4c6ef5&text_color=57606a&border_color=d0d7de" alt="languages" />
+</picture>
 
 </div>
