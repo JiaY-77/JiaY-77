@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/47072765?s=220&v=4" width="110" alt="avatar" />
-
 <h1>七七 · 何嘉琪</h1>
 
 <h3>Agent + Memory = Assistant</h3>
@@ -78,8 +76,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JiaY-77&show_icons=true&hide_rank=true&include_all_commits=true&theme=github_dark&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&border_color=30363d&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JiaY-77&show_icons=true&hide_rank=true&include_all_commits=true&title_color=4c6ef5&icon_color=4c6ef5&text_color=57606a&border_color=d0d7de" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JiaY-77&show_icons=true&hide_rank=true&theme=github_dark&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JiaY-77&show_icons=true&hide_rank=true&title_color=4c6ef5&icon_color=4c6ef5&text_color=57606a&border_color=d0d7de" alt="stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaY-77&layout=compact&hide=VBScript&theme=github_dark&title_color=7aa2f7&text_color=c9d1d9&border_color=30363d" />
