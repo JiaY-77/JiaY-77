@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>七七 · 何嘉琪</h1>
+<h1>七七</h1>
 
 <h3>Agent + Memory = Assistant</h3>
 
